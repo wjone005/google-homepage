@@ -1,0 +1,43 @@
+#footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:40px;
+   width:100%;
+   background-color: #f2f2f2;
+  }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#header-menu li{
+	float: left;
+	display: block;
+  	padding: 8px;
+  	
+}
+
+.image{
+	position: absolute;
+    top: 40%;
+    left: 45%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+}
+
+#search{
+	position: absolute;
+	top: 60%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+}​
